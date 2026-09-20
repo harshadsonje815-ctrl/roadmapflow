@@ -1,0 +1,6 @@
+{
+  "name": "Feature Request & Roadmap Portal",
+  "description": "A MERN stack portal for feature requests, voting, threaded discussions, and public roadmap tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
